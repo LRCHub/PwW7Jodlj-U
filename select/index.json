@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "あなた",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2026-03-08T12:39:22.557082Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_あなた_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Anata [あなた]",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/02_Anata_[あなた]_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Anata (あなた)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Anata_(あなた)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/04_あなた_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ありがとう あなた",
+      "artist": "山口百恵",
+      "has_synced": true,
+      "path": "select/05_ありがとう_あなた_山口百恵.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/06_あなた_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": true,
+      "path": "select/07_あなた_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/08_あなた_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/09_あなた_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "あなた - Anata",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/10_あなた_-_Anata_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/11_あなた_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/12_あなた_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/13_あなた_HY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "HY",
+      "has_synced": false,
+      "path": "select/14_あなた_HY.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "あなた",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/15_あなた_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "あなた (Rerecorded)",
+      "artist": "HY",
+      "has_synced": true,
+      "path": "select/16_あなた_(Rerecorded)_HY.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "あなた - Anata",
+      "artist": "宇多田ヒカル - Hikaru Utada",
+      "has_synced": false,
+      "path": "select/17_あなた_-_Anata_宇多田ヒカル_-_Hikaru_Utada.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなた",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_あなた_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "あなた",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_あなた_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "あなた",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_03_あなた_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "あなた",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_04_あなた_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "あなた",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_05_あなた_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "あなた",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_06_あなた_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "あなたは",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_07_あなたは_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "あなたは",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_08_あなたは_いきものがかり.txt"
+    }
+  ]
+}
